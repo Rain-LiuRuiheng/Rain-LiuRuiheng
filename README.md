@@ -2,8 +2,8 @@
 <h3 align="center">A computer major student from Shanghai Jiao Tong University, China</h3>
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">WeChat: 15604106333</h3>
-<h3 align="left">NetEase email: liuruiheng030222@163.com</h3>
+<h4 align="left">WeChat: 15604106333</h4>
+<h4 align="left">NetEase email: liuruiheng030222@163.com</h4>
 <p align="left">
 </p>
 
