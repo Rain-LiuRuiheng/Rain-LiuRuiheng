@@ -1,45 +1,75 @@
 <h1 align="center">Hi 👋, I'm Liu Ruiheng</h1>
-<h3 align="center">Computer Science Student at Shanghai Jiao Tong University</h3>
+<h3 align="center">Computer Science Researcher at Shanghai Jiao Tong University</h3>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/LiuRuiheng" alt="Profile Photo" width="200" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/your-profile-id" alt="Profile Photo" width="200" style="border-radius: 50%;"/>
 </div>
 
 ## 📌 About Me
 - 🎓 Computer Science major at Shanghai Jiao Tong University
-- 🔭 Passionate about software development and machine learning
-- 🌱 Currently learning advanced algorithms and deep learning
+- 🔭 Core Researcher at Network and Service Computing Institute
+- 🌱 Specialized in IoT, Signal Processing, and Human-Computer Interaction
+- 📫 Contact: [liuruiheng030222@163.com](mailto:liuruiheng030222@163.com) | WeChat: 15604106333
 
 ## 🔗 Connect With Me
-- WeChat: 15604106333
-- Email: [liuruiheng030222@163.com](mailto:liuruiheng030222@163.com)
+[![Email](https://img.shields.io/badge/Email-liuruiheng030222@163.com-red?style=flat&logo=gmail)](mailto:liuruiheng030222@163.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rain--LiuRuiheng-blue?style=flat&logo=github)](https://github.com/Rain-LiuRuiheng)
 
-## 📄 Resume
-[View My Resume](#) (Upload your resume to Google Drive/Dropbox and add link here)
+## 🔬 Research Experience
 
-## 🚀 Projects
-Here are some of my notable projects:
+### 🏛️ Shanghai Jiao Tong University - Network and Service Computing Institute
+**Core Researcher** | *2024.07 - Present*
 
-1. **[Project Name 1](#)** - Short description (add GitHub link)
-2. **[Project Name 2](#)** - Short description 
-3. **[Project Name 3](#)** - Short description
+#### Project 1: Blind-Friendly Appliance Interaction via Ultrasound
+- Developed smartphone-based system capturing appliance ultrasonic fingerprints (>20kHz)
+- Enhanced sampling rate to 192kHz through hardware/OS modifications
+- Created HumNet (FCN-BLSTM hybrid) for appliance recognition
+- **Outcomes**: Bachelor Thesis | Submitted to Ubicomp 2025
 
-Visit my [GitHub repositories](https://github.com/Rain-LiuRuiheng) for more projects.
+#### Project 2: Appliance Recognition via EM Leakage
+- Designed USRP-based system for non-invasive appliance monitoring
+- Developed VMD-based denoising pipeline for low-SNR signals
+- Implemented two-stage random forest classifier (18 states recognition)
+- **Outcomes**: Patent Application
 
-## 🛠️ Languages and Tools
+#### Project 3: Optimized NB-IoT Distributed Control
+- Enhanced KCP protocol for high packet-loss environments
+- Implemented pub-sub architecture with 20ms heartbeat monitoring
+- **Outcomes**: Submitted to MobiHoc 2025 (CCF-B)
+
+### 📚 Shanghai Jiao Tong University Library
+**Data Visualization Developer** | *2024.03 - 2024.08*
+- Built real-time analytics dashboard using D3.js and WebSocket
+- Developed data processing pipeline for library usage metrics
+- **Tech Stack**: Python, D3.js, Node.js
+
+### 🔐 FINS Laboratory
+**Core Researcher** | *2022.09 - 2023.10*
+- Developed iVAE-LSTM model for industrial control system attack detection
+- Achieved 92% F1-score on SWAT dataset
+- **Outcomes**: University Innovation Project
+
+## 🚀 Featured Projects
+1. **[HumNet](https://github.com/your-repo)** - Ultrasound-based appliance recognition framework
+2. **[EM-Signature](https://github.com/your-repo)** - Non-contact appliance monitoring system
+3. **[KCP-NB](https://github.com/your-repo)** - Optimized IoT communication protocol
+4. **[LibViz](https://github.com/your-repo)** - Real-time library analytics dashboard
+
+## 🛠️ Technical Skills
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3.js&logoColor=white" alt="D3.js">
+  <img src="https://img.shields.io/badge/IoT-FF6F00?logo=arduino&logoColor=white" alt="IoT">
+  <img src="https://img.shields.io/badge/DSP-000000?logo=mathworks&logoColor=white" alt="DSP">
 </p>
 
+## 📄 Resume
+[![Resume PDF](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/Rain-LiuRuiheng/RainLiuRuiheng/raw/main/resume.pdf)
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rain-LiuRuiheng&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rain-LiuRuiheng&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
