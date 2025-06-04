@@ -68,8 +68,3 @@
 ## 📄 Resume
 [![Resume PDF](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/Rain-LiuRuiheng/RainLiuRuiheng/raw/main/resume.pdf)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rain-LiuRuiheng&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rain-LiuRuiheng&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
