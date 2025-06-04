@@ -24,7 +24,7 @@ Here are some of my notable projects:
 2. **[Project Name 2](#)** - Short description 
 3. **[Project Name 3](#)** - Short description
 
-Visit my [GitHub repositories](https://github.com/yourusername?tab=repositories) for more projects.
+Visit my [GitHub repositories](https://github.com/Rain-LiuRuiheng) for more projects.
 
 ## 🛠️ Languages and Tools
 <p align="center">
@@ -43,8 +43,3 @@ Visit my [GitHub repositories](https://github.com/yourusername?tab=repositories)
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
